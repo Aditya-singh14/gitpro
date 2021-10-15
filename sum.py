@@ -1,3 +1,3 @@
 x=15
 y=10
-print(x+y)
+print("The sum of this is",x+y)
